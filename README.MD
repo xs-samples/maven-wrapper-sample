@@ -1,0 +1,4 @@
+```shell script
+# generator maven wrapper project
+mvn -N io.takari:maven:0.7.7:wrapper -Dmaven=3.6.3
+```
